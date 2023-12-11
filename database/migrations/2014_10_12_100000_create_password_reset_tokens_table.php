@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreatePasswordResetTokenTable extends Migration
+class  CreatePasswordResetTokenTableV2 extends 
 {
     /**
      * Run the migrations.
