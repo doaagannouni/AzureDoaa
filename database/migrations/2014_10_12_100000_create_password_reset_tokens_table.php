@@ -13,7 +13,7 @@ class CreatePasswordResetTokenTableee extends Migration
      */
     public function up()
     {
-        Schema::create('password_reset_token', function (Blueprint $table) {
+        Schema::create('password_reset_tokennn', function (Blueprint $table) {
             $table->string('email')->index();
             $table->string('token');
             $table->timestamp('created_at')->nullable();
@@ -27,6 +27,6 @@ class CreatePasswordResetTokenTableee extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('password_reset_token');
+        Schema::dropIfExists('password_reset_tokennn');
     }
 }
