@@ -21,4 +21,5 @@ Route::get('/', function () {
 // routes/web.php
 
 
+
 Route::resource('products', ProductController::class);
