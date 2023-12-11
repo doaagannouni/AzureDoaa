@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ---
 languages:
 - php
@@ -31,3 +32,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 =======
 # ProjetAzureDoua
 >>>>>>> bc0eef7944a8a5957be874cb51a1d5841e659795
+=======
+# AzureDoaa
+>>>>>>> 2def01c0aaf5fa8de545a14afad5b9a32c2b41b9
